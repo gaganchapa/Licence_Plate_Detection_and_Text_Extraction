@@ -12,6 +12,8 @@ Optical Character Recognition tool, to extract the text from the license plate. 
 approach ensures the accuracy and reliability of text extraction from images
 ## Demo
 
+[Hugging Face Link](https://huggingface.co/spaces/gagandwaz/SnapText)
+
 
 Input Image
 
@@ -38,6 +40,5 @@ Extracted Text
   streamlit run app.py
 ```
 
-[Hugging Face Link](https://huggingface.co/spaces/gagandwaz/SnapText)
 
 
