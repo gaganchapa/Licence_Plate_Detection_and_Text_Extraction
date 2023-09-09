@@ -10,6 +10,9 @@ Our code pipeline begins with the image reading process, followed by the extract
 License Plate region of interest (ROI). This ROI is then passed to the EasyOCR API, a robust 
 Optical Character Recognition tool, to extract the text from the license plate. This combined 
 approach ensures the accuracy and reliability of text extraction from images
+
+[Certificate](https://github.com/gaganchapa/Licence_Plate_Detection_and_Text_Extraction/blob/main/STEEL%20PLANT%20CERTIFICATE.pdf)
+
 ## Demo
 
 [Hugging Face Link](https://huggingface.co/spaces/gagandwaz/SnapText)
