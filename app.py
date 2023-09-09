@@ -3,7 +3,7 @@ import matplotlib as plt
 import cv2
 import numpy as np
 from PIL import Image #Image Processing
-harcascade = "haarcascade_russian_plate_number.xml"
+harcascade = "plate_number.xml"
 min_area = 500
 count = 0
 import easyocr
