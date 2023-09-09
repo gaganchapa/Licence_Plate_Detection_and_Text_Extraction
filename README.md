@@ -1,4 +1,4 @@
-# Licence_Plate_Detection_and_Text_Extraction
+7# Licence_Plate_Detection_and_Text_Extraction
 ## Demo
 
 
@@ -17,4 +17,16 @@ Extracted Text
 
 
 ![alt text](https://github.com/gaganchapa/Licence_Plate_Detection_and_Text_Extraction/blob/main/result.jpg)
+
+
+## Deployment
+
+
+
+```bash
+  streamlit run app.py
+```
+
+[Hugging Face Link](https://huggingface.co/spaces/gagandwaz/SnapText)
+
 
