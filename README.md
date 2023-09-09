@@ -3,12 +3,18 @@
 
 
 Input Image
+
+
 ![alt text](https://github.com/gaganchapa/Licence_Plate_Detection_and_Text_Extraction/blob/main/car2.jpg)
 
 Extracted Licence PLate
+
+
 ![alt text](https://github.com/gaganchapa/Licence_Plate_Detection_and_Text_Extraction/blob/main/plate_0.jpg)
 
 Extracted Text
+
+
 
 ![alt text](https://github.com/gaganchapa/Licence_Plate_Detection_and_Text_Extraction/blob/main/result.jpg)
 
